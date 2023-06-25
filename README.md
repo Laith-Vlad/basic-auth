@@ -2,9 +2,9 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## [PR](https://localhost:3000/login)
-## [Actions](https://localhost:3000/login)
-## [Repo link ](https://localhost:3000/login)
+## [PR](https://github.com/Laith-Vlad/basic-auth/pull/2)
+## [Actions](https://github.com/Laith-Vlad/basic-auth/actions)
+## [Deployed link ](https://authintication.onrender.com/)
 
 ## Project Description
 
@@ -72,12 +72,12 @@ Setting Up the Application:
 
 
 
-- **post /signup**: signing up. [local host link](https://localhost:3000/signup)
+- **post /signup**: signing up. [https://authintication.onrender.com/signup)
 you can use the rest of it by adding a / and writing the id  while changing the method
 
 ### login Resource
 
-- **post /login**: Retrieve a list of clothes records. [local host link](https://localhost:3000/login)
+- **post /login**: Retrieve a list of clothes records. [https://authintication.onrender.com/login)
 you can use the rest of it by adding a / and writing the id   
 
 ## Usage Guide
