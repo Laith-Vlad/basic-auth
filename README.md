@@ -72,12 +72,12 @@ Setting Up the Application:
 
 
 
-- **post /signup**: signing up. [https://authintication.onrender.com/signup)
+- **post /signup**: signing up. (link)[https://authintication.onrender.com/signup)
 you can use the rest of it by adding a / and writing the id  while changing the method
 
 ### login Resource
 
-- **post /login**: Retrieve a list of clothes records. [https://authintication.onrender.com/login)
+- **post /login**: Retrieve a list of clothes records. (link)[https://authintication.onrender.com/login)
 you can use the rest of it by adding a / and writing the id   
 
 ## Usage Guide
